@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebAPI", "NetCoreWebAPI\NetCoreWebAPI.csproj", "{099C48B3-EC60-432C-99C2-E3AC86214DB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore22WebAPI", "NetCore22WebAPI\NetCore22WebAPI.csproj", "{7CF11CEC-F809-4F7C-B6FA-331BEA62FBED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{099C48B3-EC60-432C-99C2-E3AC86214DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{099C48B3-EC60-432C-99C2-E3AC86214DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{099C48B3-EC60-432C-99C2-E3AC86214DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{099C48B3-EC60-432C-99C2-E3AC86214DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF11CEC-F809-4F7C-B6FA-331BEA62FBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF11CEC-F809-4F7C-B6FA-331BEA62FBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF11CEC-F809-4F7C-B6FA-331BEA62FBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF11CEC-F809-4F7C-B6FA-331BEA62FBED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
